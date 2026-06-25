@@ -13,6 +13,7 @@
 方式一 把整个 check-requirements 文件夹复制到本地的 ~/.codex/skills/
 重启 Codex
 直接在对话框输入 /需求验收助手 调用
+
 方式二 在 Codex 中直接调用：
 
 ```text
