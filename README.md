@@ -10,14 +10,17 @@
 - 变更是否有足够的测试或运行证据
 
 ## 使用方式
-
-在 Codex 中直接调用：
+方式一 把整个 check-requirements 文件夹复制到本地的 ~/.codex/skills/
+重启 Codex
+直接在对话框输入 /需求验收助手 调用
+方式二 在 Codex 中直接调用：
 
 ```text
 $check-requirements
 ```
 
 也可以直接把需求说明、代码片段、diff 或截图发给 Codex，然后让它按这个 skill 做验收。
+
 
 ## 目录结构
 
